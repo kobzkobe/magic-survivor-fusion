@@ -1,0 +1,872 @@
+[
+  {
+    "fusionName": "Empyrean Wrath",
+    "baseRequirements": [
+      {
+        "baseSpellName": "Thunderstorm",
+        "variant": "Lightning Explosion"
+      },
+      {
+        "baseSpellName": "Meteor",
+        "variant": "Meteor Shower"
+      }
+    ],
+    "description": "The Thunderstorm's explosion covers a wider range but does not expand.Increase Thunderstorm Damage by 4XIncrease the number of Thunderstorms by 3X",
+    "imageUri": "https://static.wikia.nocookie.net/magic-survival-rpg/images/e/e3/Combination-Empyrean_Wrath.png"
+  },
+  {
+    "fusionName": "Telekinetic Sword",
+    "baseRequirements": [
+      {
+        "baseSpellName": "Spirit",
+        "variant": "Magic Blade"
+      },
+      {
+        "baseSpellName": "Electric Shock",
+        "variant": "Chain Lightning"
+      }
+    ],
+    "description": "Spirit Projectiles become longer and can attack enemies at a higher speed.Spirit Projectiles attack nearby enemies 4 additionally times.Spirit Cooldown reduction from 1 sec to 0.2 sec increase Damage Multiplier by 1Spirit Damage increases by 3X",
+    "imageUri": "https://static.wikia.nocookie.net/magic-survival-rpg/images/7/72/Combination-Telekinetic_Sword.png"
+  },
+  {
+    "fusionName": "Crazed Spray",
+    "baseRequirements": [
+      {
+        "baseSpellName": "Energy Bolt",
+        "variant": "Charged Particles"
+      },
+      {
+        "baseSpellName": "Spirit",
+        "variant": "Familiar"
+      }
+    ],
+    "description": "Energy Bolts split into 4 and fire in all directions.Energy Bolt projectiles continue moving forwards.Energy Bolt Damage increases by 10XEnergy Bolt count increases by 3XEnergy Bolt Duration increases by 30%",
+    "imageUri": "https://static.wikia.nocookie.net/magic-survival-rpg/images/9/92/Combination-Crazed_Spray.png"
+  },
+  {
+    "fusionName": "Terra Current",
+    "baseRequirements": [
+      {
+        "baseSpellName": "Arcane Ray",
+        "variant": "Electromagnetic Burst"
+      },
+      {
+        "baseSpellName": "Electric Shock",
+        "variant": "Superconductivity"
+      }
+    ],
+    "description": "Arcane Rays can attack targets in a wider range.Arcane Rays switch directions every 0.5 seconds.Arcane Rays gains 1X Damage Multiplier for every 1 sec of duration.Arcane Ray Damage increases by 4XArcane Ray Cooldown reduced by 50%",
+    "imageUri": "https://static.wikia.nocookie.net/magic-survival-rpg/images/0/07/Combination-Terra_Current.png"
+  },
+  {
+    "fusionName": "War Climate",
+    "baseRequirements": [
+      {
+        "baseSpellName": "Meteor",
+        "variant": "Meteor Shower"
+      },
+      {
+        "baseSpellName": "Blizzard",
+        "variant": "Shooting Star"
+      }
+    ],
+    "description": "Meteor Cooldown becomes faster depending on the number of Meteors, and they are also created over the same Interval as its Cooldown.Meteor Cooldown is also decreased by 0 to 80% for each Meteor.Increase Meteor Damage by 4X",
+    "imageUri": "https://static.wikia.nocookie.net/magic-survival-rpg/images/1/11/Combination-War_Climate.png"
+  },
+  {
+    "fusionName": "Demon Equation",
+    "baseRequirements": [
+      {
+        "baseSpellName": "Fireball",
+        "variant": "Big Bang"
+      },
+      {
+        "baseSpellName": "Energy Bolt",
+        "variant": "Flare"
+      }
+    ],
+    "description": "Fireballs are launched at the same time in multiple directions and the attribute affect Big Bang will no longer be active.Increase Fireball Damage by 6.66XIncrease Fireball Penetration by 2Increase the number of Fireballs by 4XIncrease Fireball Cooldown by 3.3X",
+    "imageUri": "https://static.wikia.nocookie.net/magic-survival-rpg/images/f/fc/Combination-Demon_Equation.png"
+  },
+  {
+    "fusionName": "Frenzy",
+    "baseRequirements": [
+      {
+        "baseSpellName": "Flash Shock",
+        "variant": "Satan's Nails"
+      },
+      {
+        "baseSpellName": "Magic Bolt",
+        "variant": "Fire at Will"
+      }
+    ],
+    "description": "Flash Shock generates faster and farther, stacking up to 4 times and resetting at 9 times.Flash Shock Damage increases by 7XFlash Shock Cooldown reduced by 50%",
+    "imageUri": "https://static.wikia.nocookie.net/magic-survival-rpg/images/f/f8/Combination-Frenzy.png"
+  },
+  {
+    "fusionName": "Ghastly Rampage",
+    "baseRequirements": [
+      {
+        "baseSpellName": "Fireball",
+        "variant": "Constellation"
+      },
+      {
+        "baseSpellName": "Satellite",
+        "variant": "Will o' the wisp"
+      }
+    ],
+    "description": "Fireball penetrates all enemies and move randomly.Instead of colliding with enemies, Fireballs explode every 1.2 seconds.Fireball Damage is increased by 50% for 1 Penetration.Fireball Damage increases by 10XFireball Cooldown reduced by 30%Fireball Size reduced by 20%",
+    "imageUri": "https://static.wikia.nocookie.net/magic-survival-rpg/images/1/14/Combination-Ghastly_Rampage.png"
+  },
+  {
+    "fusionName": "Reaction",
+    "baseRequirements": [
+      {
+        "baseSpellName": "Energy Bolt",
+        "variant": "Spark"
+      },
+      {
+        "baseSpellName": "Shield",
+        "variant": "Destruction Field"
+      }
+    ],
+    "description": "Energy Bolts no longer damage enemies multiple times.Energy Bolts cause an explosion after colliding into enemies 8 timesIncrease Energy Bolt Damage by 5.5X",
+    "imageUri": "https://static.wikia.nocookie.net/magic-survival-rpg/images/4/46/Combination-Reaction.png"
+  },
+  {
+    "fusionName": "Vortex",
+    "baseRequirements": [
+      {
+        "baseSpellName": "Cyclone",
+        "variant": "Void"
+      },
+      {
+        "baseSpellName": "Satellite",
+        "variant": "Anti-Gravity"
+      }
+    ],
+    "description": "Cyclones are created near the character and rotate.Cyclones gradually shrink in size.Cyclone damage increases by 9XCyclone Duration increases by 9XCyclone Cooldown reduced by 50%.",
+    "imageUri": "https://static.wikia.nocookie.net/magic-survival-rpg/images/3/3c/Combination-Vortex.png"
+  },
+  {
+    "fusionName": "Breath of Fire",
+    "baseRequirements": [
+      {
+        "baseSpellName": "Incineration",
+        "variant": "Cerberus Flame"
+      },
+      {
+        "baseSpellName": "Arcane Ray",
+        "variant": "Reflect"
+      }
+    ],
+    "description": "Incineration no longer fires sideways from the character but to five directions outwards from the character.Incinerations are created with longer range and at a faster speed.Increase Incineration Damage by 6XIncrease the number of Incineration by 30%",
+    "imageUri": "https://static.wikia.nocookie.net/magic-survival-rpg/images/2/23/Combination-Breath_of_Fire.png"
+  },
+  {
+    "fusionName": "Ether Blaze",
+    "baseRequirements": [
+      {
+        "baseSpellName": "Blizzard",
+        "variant": "Conflagration"
+      },
+      {
+        "baseSpellName": "Incineration",
+        "variant": "Flamestrike"
+      }
+    ],
+    "description": "Each Blizzard explosion splits into 2.Increase Blizzard Damage by 8XIncrease Blizzard Size by 20%Decrease Blizzard Interval by 30%",
+    "imageUri": "https://static.wikia.nocookie.net/magic-survival-rpg/images/4/42/Combination-Ether_Blaze.png"
+  },
+  {
+    "fusionName": "Orbital Strike",
+    "baseRequirements": [
+      {
+        "baseSpellName": "Thunderstorm",
+        "variant": "Lighting Explosion"
+      },
+      {
+        "baseSpellName": "Blizzard",
+        "variant": "Shooting Star"
+      }
+    ],
+    "description": "Thunderstorms are quickly generated near a set location.Thunderstorm Damage increases by 9XThunderstorm Size increases by 30%Thunderstorm cooldown increased by 30%",
+    "imageUri": "https://static.wikia.nocookie.net/magic-survival-rpg/images/a/a5/Combination-Orbital_Strike.png"
+  },
+  {
+    "fusionName": "Neutron Generation",
+    "baseRequirements": [
+      {
+        "baseSpellName": "Cyclone",
+        "variant": "Electric Orb"
+      },
+      {
+        "baseSpellName": "Satellite",
+        "variant": "Nuclear Fusion"
+      }
+    ],
+    "description": "All Cyclones are combined into one.Cyclones no longer fire projectiles, but rapidly expand and their speed decreases gradually.Each Cyclone increases the Size of the new Cyclone by 25%.Increase Cyclone Damage by 10X",
+    "imageUri": "https://static.wikia.nocookie.net/magic-survival-rpg/images/6/63/Combination-Neutron_Generation.png"
+  },
+  {
+    "fusionName": "Winter Storm",
+    "baseRequirements": [
+      {
+        "baseSpellName": "Blizzard",
+        "variant": "Sub-Zero"
+      },
+      {
+        "baseSpellName": "Fireball",
+        "variant": "Toxic Gas"
+      }
+    ],
+    "description": "Blizzard explosions expand.Increase Blizzard Damage by 8XIncrease Blizzard Size by 25%Decrease the number of Blizzards by 25%",
+    "imageUri": "https://static.wikia.nocookie.net/magic-survival-rpg/images/f/f1/Combination-Winter_Storm.png"
+  },
+  {
+    "fusionName": "Plasma Ray",
+    "baseRequirements": [
+      {
+        "baseSpellName": "Arcane Ray",
+        "variant": "Disintegration Ray"
+      },
+      {
+        "baseSpellName": "Satellite",
+        "variant": "Nuclear Fusion"
+      }
+    ],
+    "description": "5 Arcane Rays are permanently active, and fixed in position.Arcane Rays deal damage every 0.25 seconds.Damage increases in relation to Arcane Ray's duration and the Damage Interval decreases in relation to Cooldown Decrease.Increases Damage Multiplier by 0.5 for per Arcane RayIncrease Arcane Ray Size by 50%",
+    "imageUri": "https://static.wikia.nocookie.net/magic-survival-rpg/images/f/f1/Combination-Plasma_Ray.png"
+  },
+  {
+    "fusionName": "Lightning Bolts",
+    "baseRequirements": [
+      {
+        "baseSpellName": "Thunderstorm",
+        "variant": "Thunderclap"
+      },
+      {
+        "baseSpellName": "Electric Shock",
+        "variant": "Chain Lightning"
+      }
+    ],
+    "description": "5 Thunderstorms are created in a row at random locations.\nEach Thunderstorm increases the new Thunderstorm's Creation Radius and Number by 30%Increase Thunderstorm Damage by 12X",
+    "imageUri": "https://static.wikia.nocookie.net/magic-survival-rpg/images/3/3c/Combination-Lightning_Bolts.png"
+  },
+  {
+    "fusionName": "Photon Explosion",
+    "baseRequirements": [
+      {
+        "baseSpellName": "Shield",
+        "variant": "Destruction Field"
+      },
+      {
+        "baseSpellName": "Arcane Effuse",
+        "variant": null
+      }
+    ],
+    "description": "The Shield explodes instead of charging up.Damage and Size of Shields increase by 33% per Shield.Damage increases in relation to All Magic Size Increase.Decrease Shield Cooldown by 70%",
+    "imageUri": "https://static.wikia.nocookie.net/magic-survival-rpg/images/4/42/Combination-Photon_Explosion.png"
+  },
+  {
+    "fusionName": "Inferno",
+    "baseRequirements": [
+      {
+        "baseSpellName": "Incineration",
+        "variant": "Flamestrike"
+      },
+      {
+        "baseSpellName": "Lava Zone",
+        "variant": "Melt"
+      }
+    ],
+    "description": "Incineration is created at a higher speed and its Maximum Multiplier  is increased.(Maximum: Damage X20, Size X2)Incineration Damage increases by 50%Incineration Cooldown reduced by 20%",
+    "imageUri": "https://static.wikia.nocookie.net/magic-survival-rpg/images/f/f2/Combination-Inferno.png"
+  },
+  {
+    "fusionName": "Lightning Calibration",
+    "baseRequirements": [
+      {
+        "baseSpellName": "Electric Zone",
+        "variant": "Electric Blast"
+      },
+      {
+        "baseSpellName": "Satellite",
+        "variant": "Will o' the Wisp"
+      }
+    ],
+    "description": "Electric Zones rotate around the character as multiple projectiles.Electric Zones no longer have a Damage Interval but have increased Rotation Speed.Increase Electric Zone Damage by 10XIncrease Electric Zone Size by 30%",
+    "imageUri": "https://static.wikia.nocookie.net/magic-survival-rpg/images/c/ca/Combination-Lightning_Calibration.png"
+  },
+  {
+    "fusionName": "Furnace",
+    "baseRequirements": [
+      {
+        "baseSpellName": "Lava Zone",
+        "variant": "Magma Eruption"
+      },
+      {
+        "baseSpellName": "Meteor",
+        "variant": "Volcanic Eruption"
+      }
+    ],
+    "description": "Lava Zones gradually expand.Damage increases in relation to Lava Zone's duration.Increase Lava Zone Damage by 10XIncrease Lava Zone Duration by 30%Decrease Lava Zone Cooldown by 30%",
+    "imageUri": "https://static.wikia.nocookie.net/magic-survival-rpg/images/0/00/Combination-Furnace.png"
+  },
+  {
+    "fusionName": "Current Overload",
+    "baseRequirements": [
+      {
+        "baseSpellName": "Electric Shock",
+        "variant": "Chain Lightning"
+      },
+      {
+        "baseSpellName": "Spirit",
+        "variant": "Familiar"
+      }
+    ],
+    "description": "Electric Shocks no longer chain, but are created 3 to 7 times in a row.Electric Shock has longer range.Increase Electric Shock Damage by 8X",
+    "imageUri": "https://static.wikia.nocookie.net/magic-survival-rpg/images/4/42/Combination-Current_Overload.png"
+  },
+  {
+    "fusionName": "Great Flood",
+    "baseRequirements": [
+      {
+        "baseSpellName": "Tsunami",
+        "variant": "Siren's Song"
+      },
+      {
+        "baseSpellName": "Cyclone",
+        "variant": "Extreme Weather"
+      }
+    ],
+    "description": "2 additional Tsunamis are created on each of the Tsunami.Tsunamis are always created at the back of the character.Increase Tsunami Damage by 8XTsunami Cooldown doubled",
+    "imageUri": "https://static.wikia.nocookie.net/magic-survival-rpg/images/7/79/Combination-Great_Flood.png"
+  },
+  {
+    "fusionName": "Snowflake Blossom",
+    "baseRequirements": [
+      {
+        "baseSpellName": "Frost Nova",
+        "variant": "Ice Age"
+      },
+      {
+        "baseSpellName": "Tsunami",
+        "variant": "Pole"
+      }
+    ],
+    "description": "Frost Nova explodes consecutively 24 times nearby enemies, reducing Damage and Size by 2% per explosion.Frost Nova Damage increases by 12XFrost Nova Cooldown reduces by 30%.",
+    "imageUri": "https://static.wikia.nocookie.net/magic-survival-rpg/images/1/15/Combination-Snowflake_Blossom.png"
+  },
+  {
+    "fusionName": "Ruler of Storms",
+    "baseRequirements": [
+      {
+        "baseSpellName": "Cyclone",
+        "variant": "Extreme Weather"
+      },
+      {
+        "baseSpellName": "Magic Bolt",
+        "variant": "Fire at Will"
+      }
+    ],
+    "description": "3 Cyclones are created in a row in multiple directions.The Cyclone's Movement Speed increases and then decreases gradually.Cyclone Damage increases by 10XCyclones Size increases by 20%Cyclone Duration reduced by 50%.",
+    "imageUri": "https://static.wikia.nocookie.net/magic-survival-rpg/images/5/5a/Combination-Ruler_of_Storms.png"
+  },
+  {
+    "fusionName": "Overmind",
+    "baseRequirements": [
+      {
+        "baseSpellName": "Intelligence",
+        "variant": null
+      },
+      {
+        "baseSpellName": "Magic Circle",
+        "variant": "Great Magic Circle"
+      }
+    ],
+    "description": "The character can only cast Magic Combinations.Each level of Active Magic learned increases the following stats.Amplify ATK by 1%Increase All Magic Size by 0.5%Decrease All Magic Cooldown by 0.3%",
+    "imageUri": "https://static.wikia.nocookie.net/magic-survival-rpg/images/d/d5/Combination-Overmind.png"
+  },
+  {
+    "fusionName": "Perpetual Engine",
+    "baseRequirements": [
+      {
+        "baseSpellName": "Magic Circle",
+        "variant": "Unleash Mana"
+      },
+      {
+        "baseSpellName": "Intelligence",
+        "variant": null
+      }
+    ],
+    "description": "Magic Circles are permanent.The effect of Unleash Mana attribute is reduced by half.The Magic Circle's Effect is increased by 1% for every 10%of its Duration.The Magic Circle's Effect is increased by 1% for every 10%of its Cooldown Decrease.",
+    "imageUri": "https://static.wikia.nocookie.net/magic-survival-rpg/images/4/44/Combination-Perpetual_Engine.png"
+  },
+  {
+    "fusionName": "Gate of Creation",
+    "baseRequirements": [
+      {
+        "baseSpellName": "Intelligence",
+        "variant": null
+      },
+      {
+        "baseSpellName": "Magic Circle",
+        "variant": "Material Synthesis"
+      }
+    ],
+    "description": "Gain 2 more Magic Combination chances.Amplify ATK by 40%",
+    "imageUri": "https://static.wikia.nocookie.net/magic-survival-rpg/images/9/9d/Combination-Gate_of_Creation.png"
+  },
+  {
+    "fusionName": "Origin Explosion",
+    "baseRequirements": [
+      {
+        "baseSpellName": "Energy Bolt",
+        "variant": "Flare"
+      },
+      {
+        "baseSpellName": "Fireball",
+        "variant": "Constellation"
+      }
+    ],
+    "description": "Energy Bolts explode immediately after spreading in all directionsEnergy Bolt Damage increases proportionally to its durationEnergy bullet duration increased by 8xEnergy Bolt explosion Size increases by 50%Energy Bolt number increases by 50%Energy Bolt cooldown doubled",
+    "imageUri": "https://static.wikia.nocookie.net/magic-survival-rpg/images/4/45/Combination-Origin_Explosion.png"
+  },
+  {
+    "fusionName": "Prism Ray",
+    "baseRequirements": [
+      {
+        "baseSpellName": "Arcane Ray",
+        "variant": "Reflect"
+      },
+      {
+        "baseSpellName": "Magic Bolt",
+        "variant": "Fire at Will"
+      }
+    ],
+    "description": "Instead of creating Arcane Rays on the opposite side.\nthey are created at the same time in random directions 5 times in a row.The Arcane Ray's Duration is converted in its DamageIncrease Arcane Ray Damage by 7XDecrease Arcane Ray Cooldown by 25%",
+    "imageUri": "https://static.wikia.nocookie.net/magic-survival-rpg/images/0/0d/Combination-Prism_Ray.png"
+  },
+  {
+    "fusionName": "Great Rift",
+    "baseRequirements": [
+      {
+        "baseSpellName": "Frost Nova",
+        "variant": "Earthquake"
+      },
+      {
+        "baseSpellName": "Meteor",
+        "variant": "Volcanic Eruption"
+      }
+    ],
+    "description": "All enemies hit by frost are knocked back.Frost Nova Damage increased by 10xFrost Nova Size increases by 50%Frost Nova cooldown increases by 50%",
+    "imageUri": "https://static.wikia.nocookie.net/magic-survival-rpg/images/0/05/Combination-Great_Rift.png"
+  },
+  {
+    "fusionName": "Hyperion",
+    "baseRequirements": [
+      {
+        "baseSpellName": "Satellite",
+        "variant": "Nuclear Fusion"
+      },
+      {
+        "baseSpellName": "Meteor",
+        "variant": "Asteroid"
+      }
+    ],
+    "description": "Createe another combined Satellite on the opposite sideThis Satellite has 20% less Damage than the original, but freezes it damages for the first time.Satellite Damage increased by 200%Satellite Rotation Speed increased by 50%",
+    "imageUri": "https://static.wikia.nocookie.net/magic-survival-rpg/images/9/94/Combination-Hyperion.png"
+  },
+  {
+    "fusionName": "Avatar",
+    "baseRequirements": [
+      {
+        "baseSpellName": "Magic Bolt",
+        "variant": "Doppelganger"
+      },
+      {
+        "baseSpellName": "Spirit",
+        "variant": "Magic Missile"
+      }
+    ],
+    "description": "Summons 3 additional Mirages that fire magic bullets.Mirages only fire 1 Magic Bolt at a time.Each Magin Bolt increases Damage by33%Magic Bullet Damage increased by 99.9XMagic Bullet cooldown reduced by 33%",
+    "imageUri": "https://static.wikia.nocookie.net/magic-survival-rpg/images/7/78/Combination-Avatar.png"
+  },
+  {
+    "fusionName": "Heart of Lightning",
+    "baseRequirements": [
+      {
+        "baseSpellName": "Electric Shock",
+        "variant": "Chain Lightning"
+      },
+      {
+        "baseSpellName": "Energy Bolt",
+        "variant": "Charged Particles"
+      }
+    ],
+    "description": "Every time Electric Shock is chained, the projectile splits in 2, and their Damage and Size is decreased by 20%.Electric Shock is chained at a higher speed.Electric Shock Damage increased by 6X",
+    "imageUri": "https://static.wikia.nocookie.net/magic-survival-rpg/images/b/b1/Combination-Heart_of_Lightning.png"
+  },
+  {
+    "fusionName": "Great Impact",
+    "baseRequirements": [
+      {
+        "baseSpellName": "Meteor",
+        "variant": "Asteroid"
+      },
+      {
+        "baseSpellName": "Blizzard",
+        "variant": "Shooting Star"
+      }
+    ],
+    "description": "Meteors are generated 3 times in succession.  Meteor Damage increases by 8X Meteor cooldown reduced by 25%  Meteor Size reduced by 25%",
+    "imageUri": "https://static.wikia.nocookie.net/magic-survival-rpg/images/0/02/Combination-Great_Impact.png"
+  },
+  {
+    "fusionName": "Frozen Heart",
+    "baseRequirements": [
+      {
+        "baseSpellName": "Electric Zone",
+        "variant": "Fire Aura"
+      },
+      {
+        "baseSpellName": "Frost Nova",
+        "variant": "Ice Age"
+      }
+    ],
+    "description": "The Electric zone freezes enemies for a short duration. Each time the electric shock zone is activated, the Damage and Size multipliers increase by 2, resetting after 4 activations. Electric Zone Damage increases by 12X",
+    "imageUri": "https://static.wikia.nocookie.net/magic-survival-rpg/images/e/e4/Combination-Frozen_Heart.png"
+  },
+  {
+    "fusionName": "Meissner Effect",
+    "baseRequirements": [
+      {
+        "baseSpellName": "Electric Zone",
+        "variant": "EMP"
+      },
+      {
+        "baseSpellName": "Electric Shock",
+        "variant": "Superconductivity"
+      }
+    ],
+    "description": "When EMP stuns a target, knock it back adn deal 10X additional damage. Electric Zone Size increases by 100%Amplify ATK by 25%",
+    "imageUri": "https://static.wikia.nocookie.net/magic-survival-rpg/images/4/44/Combination-Meissner_Effect.png"
+  },
+  {
+    "fusionName": "Energy Bombardment",
+    "baseRequirements": [
+      {
+        "baseSpellName": "Arcane Ray",
+        "variant": "Destruction Ray"
+      },
+      {
+        "baseSpellName": "Flash Shock",
+        "variant": "Ragnarok"
+      }
+    ],
+    "description": "Arcane Rays are generated simultaneously in random directions. Arcane Ray no longer rotates. Increase Arcane Ray Damage by 20X  Increase Arcane Ray Size by 5x  Arcane Ray cooldown reduced by 25%  Decrease Arcane Ray Duration reduced by 75%",
+    "imageUri": "https://static.wikia.nocookie.net/magic-survival-rpg/images/3/3d/Combination-Energy_Bombardment.png"
+  },
+  {
+    "fusionName": "Super Cyclone",
+    "baseRequirements": [
+      {
+        "baseSpellName": "Cyclone",
+        "variant": "Climate Change"
+      },
+      {
+        "baseSpellName": "Electric Zone",
+        "variant": "Fire Aura"
+      }
+    ],
+    "description": "All Cyclones are combined into one.Cyclone persists and follow the character.Damage Multiplier increases in relation to how long Cyclones persist.Cooldown starts when Cyclone duration ends.Each Cyclone increases the Size of the new Cyclone by 20%.Increase Cyclone Duration and Cooldown by 100%",
+    "imageUri": "https://static.wikia.nocookie.net/magic-survival-rpg/images/f/fc/Combination-Super_Cyclone.png"
+  },
+  {
+    "fusionName": "Teleport",
+    "baseRequirements": [
+      {
+        "baseSpellName": "Cloaking",
+        "variant": "Space Warp"
+      },
+      {
+        "baseSpellName": "Concentration",
+        "variant": null
+      }
+    ],
+    "description": "Cloaking causes 8 consecutive explosions.Cloaking changes position randomly with each explosion and returns to the original position after the final explosion.Cloaking gains 1 additional Explosion for every 1 second of duration.Cloaking Damage increases by 4XCloaking cooldown reduced by 60%",
+    "imageUri": "https://static.wikia.nocookie.net/magic-survival-rpg/images/7/71/Combination-Teleport.png"
+  },
+  {
+    "fusionName": "Flame Storm",
+    "baseRequirements": [
+      {
+        "baseSpellName": "Meteor",
+        "variant": "Volcanic Eruption"
+      },
+      {
+        "baseSpellName": "Incineration",
+        "variant": "Cerberus Flame"
+      }
+    ],
+    "description": "Meteors are created in a line in 6 directions around the character. Meteor craters no longer deal damage.  Meteor Damage increases by 9X  Meteor size reduced by 33%",
+    "imageUri": "https://static.wikia.nocookie.net/magic-survival-rpg/images/7/7f/Combination-Flame_Storm.png"
+  },
+  {
+    "fusionName": "Pyrotechnics",
+    "baseRequirements": [
+      {
+        "baseSpellName": "Magic Bolt",
+        "variant": "Firecracker"
+      },
+      {
+        "baseSpellName": "Energy Bolt",
+        "variant": "Flare"
+      }
+    ],
+    "description": "Magic Bolt explods at random locationsMagic Bolt explosions expand, dealing 1X to 6X power. Magic Bullet Damage increases by 7X  Magic Bolt Size increases by 50%",
+    "imageUri": "https://static.wikia.nocookie.net/magic-survival-rpg/images/2/2b/Combination-Pyrotechnics.png"
+  },
+  {
+    "fusionName": "Mana Spear",
+    "baseRequirements": [
+      {
+        "baseSpellName": "Spirit",
+        "variant": "Magic Missile"
+      },
+      {
+        "baseSpellName": "Flash Shock",
+        "variant": "Extermination"
+      }
+    ],
+    "description": "Spirit now uses its default Cooldown and Launch Interval.Spirit Projectile Speed and Range is increased dramatically.Increase Spirit Damage 10  Increase Spirit Size by 200%  Spirit Cooldown is doubled",
+    "imageUri": "https://static.wikia.nocookie.net/magic-survival-rpg/images/3/3b/Combination-Mana_Spear.png"
+  },
+  {
+    "fusionName": "Gate",
+    "baseRequirements": [
+      {
+        "baseSpellName": "Flash Shock",
+        "variant": "Ragnarok"
+      },
+      {
+        "baseSpellName": "Spirit",
+        "variant": "Magic Missile"
+      }
+    ],
+    "description": "Flash Shock Damage increases by 12XIncrease the number of Flash Shock Damage by 6XDecrease Flash Shock Damage  Cooldown by 30%Decrease Flash Shock Size by 30%",
+    "imageUri": "https://static.wikia.nocookie.net/magic-survival-rpg/images/c/c4/Combination-Gate.png"
+  },
+  {
+    "fusionName": "Magnetic Field",
+    "baseRequirements": [
+      {
+        "baseSpellName": "Satellite",
+        "variant": "Anti-Gravity"
+      },
+      {
+        "baseSpellName": "Electric Zone",
+        "variant": "Electricity Blast"
+      }
+    ],
+    "description": "The Rotation Speed bonus of Anti-Gravity is fixed to 2X.Increase Satellite Damage by 7XIncrease Satellite Size by 100%",
+    "imageUri": "https://static.wikia.nocookie.net/magic-survival-rpg/images/3/3e/Combination-Magnetic_Field.png"
+  },
+  {
+    "fusionName": "Black Death",
+    "baseRequirements": [
+      {
+        "baseSpellName": "Fireball",
+        "variant": "Toxic Gas"
+      },
+      {
+        "baseSpellName": "Magic Bolt",
+        "variant": "Fire at Will"
+      }
+    ],
+    "description": "Fireballs explode instantly on random enemies.Fireball Damage is increased by 50% for every 1 Penetration.Increase Fireball Damage by 9XIncrease the number of Fireballs by 9XIncrease Fireball Cooldown by 3X",
+    "imageUri": "https://static.wikia.nocookie.net/magic-survival-rpg/images/e/ee/Combination-Black_Death.png"
+  },
+  {
+    "fusionName": "Lightning Breath",
+    "baseRequirements": [
+      {
+        "baseSpellName": "Electric Shock",
+        "variant": "Superconductivity"
+      },
+      {
+        "baseSpellName": "Incineration",
+        "variant": "Flamestrike"
+      }
+    ],
+    "description": "3 Electric shocks are generated in front of the characterIncrease Electric Shock Damage by 7XElectric Shock number increased by 2XElectric Shock Cooldown increased by 50%",
+    "imageUri": "https://static.wikia.nocookie.net/magic-survival-rpg/images/0/06/Combination-Lightning_Breath.png"
+  },
+  {
+    "fusionName": "Phoenix",
+    "baseRequirements": [
+      {
+        "baseSpellName": "Tsunami",
+        "variant": "Great Eruption"
+      },
+      {
+        "baseSpellName": "Blizzard",
+        "variant": "Conflagration"
+      }
+    ],
+    "description": "Tsunami is generated behind the character.Generates flames in the path of the Tsunami.Tsunami Damage increases by 20XReduces Tsunami Cooldown by 30%Reduces Tsunami number by 60%Increases number of resurrections by 1",
+    "imageUri": "https://static.wikia.nocookie.net/magic-survival-rpg/images/8/8c/Combination-Phoenix.png"
+  },
+  {
+    "fusionName": "Brandish",
+    "baseRequirements": [
+      {
+        "baseSpellName": "Flash Shock",
+        "variant": "Wipeout"
+      },
+      {
+        "baseSpellName": "Spirit",
+        "variant": "Magic Blade"
+      }
+    ],
+    "description": "Flash Shocks are generated continuously 8 times from all directions.Flash Shocks only damage the center.Reduces Flash Shock Cooldown by 50%",
+    "imageUri": "https://static.wikia.nocookie.net/magic-survival-rpg/images/6/62/Combination-Brandish.png"
+  },
+  {
+    "fusionName": "Black Hole",
+    "baseRequirements": [
+      {
+        "baseSpellName": "Cyclone",
+        "variant": "Void"
+      },
+      {
+        "baseSpellName": "Satellite",
+        "variant": "Nuclear Fission"
+      }
+    ],
+    "description": "The Cyclones unify into one.Enemies damaged by the Cyclone are stiffened.The Cooldown returns after the Cyclone duration ends.Cyclone Damage Multiplier increases by 3 per Cyclone.Cyclone Damage increases by 9XCyclone Duration increases by 30%",
+    "imageUri": "https://static.wikia.nocookie.net/magic-survival-rpg/images/6/61/Combination-Black_Hole.png"
+  },
+  {
+    "fusionName": "Genesis",
+    "baseRequirements": [
+      {
+        "baseSpellName": "Blizzard",
+        "variant": "Shooting Star"
+      },
+      {
+        "baseSpellName": "Fireball",
+        "variant": "Constellation"
+      }
+    ],
+    "description": "Blizzards are generated very quickly.Blizzad can no longer freeze.Blizzard Damage increases by 15XBlizzard number increases by 50%Blizzard Cooldown reduced by 50%",
+    "imageUri": "https://static.wikia.nocookie.net/magic-survival-rpg/images/8/8f/Combination-Genesis.png"
+  },
+  {
+    "fusionName": "Astrape",
+    "baseRequirements": [
+      {
+        "baseSpellName": "Thunderstorm",
+        "variant": "Judgment"
+      },
+      {
+        "baseSpellName": "Meteor",
+        "variant": "Asteroid"
+      }
+    ],
+    "description": "When a Thunderstorm explodes, it releases a shock wave around the are, dealing half damage to nearby enemies and stunning them.Increase Thunderstorm Damage by 7XThunderstorm Size increased by 25%Thunderstorm Cooldown increased by 25%",
+    "imageUri": "https://static.wikia.nocookie.net/magic-survival-rpg/images/9/91/Combination-Astrape.png"
+  },
+  {
+    "fusionName": "Supernova",
+    "baseRequirements": [
+      {
+        "baseSpellName": "Spirit",
+        "variant": "Familiar"
+      },
+      {
+        "baseSpellName": "Energy Bolt",
+        "variant": "Flare"
+      }
+    ],
+    "description": "Fires Spirit projectiles at onceSpirit Damage increases by 24XSpirit Size increased by 100%Spirit launch count decreased by 75%Spirit Cooldown increased by 2X",
+    "imageUri": "https://static.wikia.nocookie.net/magic-survival-rpg/images/4/47/Combination-Supernova.png"
+  },
+  {
+    "fusionName": "Blaster",
+    "baseRequirements": [
+      {
+        "baseSpellName": "Magic Bolt",
+        "variant": "Magic Arrow"
+      },
+      {
+        "baseSpellName": "Flash Shock",
+        "variant": "Wipeout"
+      }
+    ],
+    "description": "Every 6th Magic Bolt fired has Template:Color power.Magic Bolt Damage increases by 5XSpirit Size increased by 50%",
+    "imageUri": "https://static.wikia.nocookie.net/magic-survival-rpg/images/a/ae/Combination-Blaster.png"
+  },
+  {
+    "fusionName": "Hellfire",
+    "baseRequirements": [
+      {
+        "baseSpellName": "Incineration",
+        "variant": "Pyromaniac"
+      },
+      {
+        "baseSpellName": "Blizzard",
+        "variant": "Conflagration"
+      }
+    ],
+    "description": "Incineration creates flames 2X the usual sizeIncineration flames explode 2 to 3 times consecutively.Spirit Damage increases by 10XIncineration Size increased by 100%Incineration Cooldown increased by 50%",
+    "imageUri": "https://static.wikia.nocookie.net/magic-survival-rpg/images/1/1a/Combination-Hellfire.png"
+  },
+  {
+    "fusionName": "Age of the Sun",
+    "baseRequirements": [
+      {
+        "baseSpellName": "Lava Zone",
+        "variant": "Crater"
+      },
+      {
+        "baseSpellName": "Satellite",
+        "variant": "Nuclear Fission"
+      }
+    ],
+    "description": "Lava Zones generate simultaneously in all directions and moveLava Zone's Duration Increase converts into Damage.Lava Zone Damage increases by 20XLava Zone Cooldown reduced by 25%",
+    "imageUri": "https://static.wikia.nocookie.net/magic-survival-rpg/images/8/89/Combination-Age_of_the_Sun.png"
+  },
+  {
+    "fusionName": "Destroyer",
+    "baseRequirements": [
+      {
+        "baseSpellName": "Electric Zone",
+        "variant": "Electricity Blast"
+      },
+      {
+        "baseSpellName": "Shield",
+        "variant": "Destruction Field"
+      }
+    ],
+    "description": "Electric Zone gains a Duration and Cooldown of 3 seconds.For every 2% increase in Size of the Electric Zone, the Damage Multiplier increases by 1, but efficiency decreases by 1% with each multiplier increase.Electric Zone Damage increases by 20X",
+    "imageUri": "https://static.wikia.nocookie.net/magic-survival-rpg/images/8/87/Combination-Destroyer.png"
+  },
+  {
+    "fusionName": "Genocide",
+    "baseRequirements": [
+      {
+        "baseSpellName": "Arcane Ray",
+        "variant": "Disintegration Ray"
+      },
+      {
+        "baseSpellName": "Spirit",
+        "variant": "Familiar"
+      }
+    ],
+    "description": "Arcane Rays merge into one, spinning faster.Each Arcane Ray Number increases Damage Multiplier by 3Arcane Ray Damage increases by 5XArcane Ray Duration reduced by 33%Arcane Ray Cooldown increased by 33%",
+    "imageUri": "https://static.wikia.nocookie.net/magic-survival-rpg/images/8/85/Combination-Genocide.png"
+  }
+]

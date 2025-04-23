@@ -1,0 +1,32 @@
+[
+    {
+      "tierName": "S",
+      "color": "#ebc715",
+      "fusions": ["Terra Current","Supernova","Blaster","Great Rift","Energy Bombardment","Snowflake Blossom","Lightning Breath","Gate"]
+    },
+    {
+      "tier_name": "A",
+      "color": "#e62e2e",
+      "fusions": ["Inferno","Hellfire","Perpetual Engine","Pyrotechnics","Genocide","Ghastly Rampage","Black Hole","Phoenix","Ruler of Storms","Great Impact","Prism Ray","Demon Equation","Brandish","Neutron Generation","Telekinetic Sword","???","Avatar","Astrape","Frenzy","Age of the Sun","Super Cyclone","Lightning Bolts","Hyperion","Winter Storm","Overmind","Heart of Lightning","Current Overload","Crazed Spray","Orbital Strike","Mana Spear","Plasma Ray","Destroyer"]
+    },
+    {
+      "tier_name": "B",
+      "color": "#e6932e",
+      "fusions": ["Gate of Creation","Origin Explosion","Frozen Heart","War Climate","Ether Blaze","Black Death","Great Flood"]
+    },
+    {
+      "tier_name": "C",
+      "color": "#c9de2c",
+      "fusions": ["Breath of Fire","Flame Storm","Teleport","Photon Explosion","Reaction"]
+    },
+    {
+      "tier_name": "D",
+      "color": "#5bde2c",
+      "fusions": ["Furnace","Breath of Fire","Magnetic Field","Meissner Effect","Genesis"]
+    },
+    {
+      "tier_name": "E",
+      "color": "#2ca3de",
+      "fusions": ["Vortex","Empyrean Wrath","Lightning Calibration"]
+    }
+  ]
