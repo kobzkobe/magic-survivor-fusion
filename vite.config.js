@@ -3,5 +3,5 @@ import react from '@vitejs/plugin-react'
 
 export default defineConfig({
   plugins: [react()],
-  base: '/fusion-selector/', // <- use your repo name here
+  base: '/magic-survivor-fusion/',
 })
